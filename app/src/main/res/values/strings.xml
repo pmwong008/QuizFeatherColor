@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz Feather Color</string>
+    <string name="pick_the_most_obvious">Pick the most obvious.</string>
+    <string name="check_all_that_applies">Check all that applies.</string>
+    <string name="question_q4">What color is common between 2 of the birds?</string>
+    <string name="input_name">Input name</string>
+    <string name="input_answer">Input answer</string>
+    <string name="mark_up_icon">Mark Up Icon</string>
+    <string name="reset">Reset</string>
+    <string name="view_score">View score!</string>
+    <string name="exit">Exit</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="purple">Purple</string>
+    <string name="orange">Orange</string>
+    <string name="brown">Brown</string>
+    <string name="blue">Blue</string>
+    <string name="red_bird">Red bird</string>
+    <string name="blue_bird">Blue bird</string>
+    <string name="colorful_bird">Colorful bird</string>
+    <string name="greeting">Hi, </string>
+    <string name="you_score">You score </string>
+    <string name="zero_out_of_4"> out of 4! \nGo check your eyes!!</string>
+    <string name="one_out_of_4"> out of 4! \nYou can do better!!</string>
+    <string name="two_out_of_4"> out of 4! \nWay to go!!</string>
+    <string name="three_out_of_4"> out of 4! \nAlmost there!!</string>
+    <string name="four_out_of_4"> out of 4! \nBravo!!!</string>
+</resources>
